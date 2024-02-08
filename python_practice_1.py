@@ -1,1 +1,2 @@
-print("Volodymyr Materynskyi, SE-1")
+print("Volodymyr Materynskyi, "
+      "SE-1")
